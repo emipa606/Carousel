@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <KeyBindingDef>
     <defName>CarouselRotate</defName>
     <category>GameMapCamera</category>
     <label>rotate camera</label>
     <defaultKeyCodeA>KeypadEnter</defaultKeyCodeA>
   </KeyBindingDef>
-
 </Defs>

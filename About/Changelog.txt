@@ -1,0 +1,5 @@
+# Changelog for Carousel
+
+1.5.1 - Updated for 1.5, added translation-strings
+Used DeepL to update translations for ChineseSimplified, French, German
+
